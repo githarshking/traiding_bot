@@ -1,0 +1,34 @@
+strategies:
+  scalp_btc:
+    name: "BTC Scalp Long"
+    symbol: BTCUSDT
+    side: BUY
+    type: MARKET
+    quantity: 0.001
+    description: "Quick long scalp on BTC — small size, market entry"
+
+  swing_eth_long:
+    name: "ETH Swing Long"
+    symbol: ETHUSDT
+    side: BUY
+    type: LIMIT
+    quantity: 0.1
+    price: 3000.0
+    description: "Limit-based swing long on ETH near support"
+
+  eth_short:
+    name: "ETH Short"
+    symbol: ETHUSDT
+    side: SELL
+    type: MARKET
+    quantity: 0.05
+    description: "Market short on ETH — momentum fade"
+
+  bnb_dca:
+    name: "BNB DCA Buy"
+    symbol: BNBUSDT
+    side: BUY
+    type: LIMIT
+    quantity: 0.5
+    price: 550.0
+    description: "DCA limit buy on BNB dip"
