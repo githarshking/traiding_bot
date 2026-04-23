@@ -468,7 +468,7 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 <div align="center">
 
-**Built with ⚡ by [Harsh](https://github.com/githarshking)**
+**Built with ⚡ by [Harshit Raj](https://github.com/githarshking)**
 
 *Mana Core v2.0 — Neon-Dark Edition*
 
