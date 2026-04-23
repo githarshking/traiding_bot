@@ -12,10 +12,10 @@
 
 ```
       /\
-     /  \      BINANCE FUTURES TESTNET
-    / /\ \     TERMINAL v2.0 // NEON-DARK EDITION
-   / /__\ \    > SYSTEM_STATUS: ONLINE
-  /________\
+        /  \   BINANCE FUTURES TESTNET
+    / /\ \   TERMINAL v2.0 // NEON-DARK EDITION
+      / /__\ \ > SYSTEM_STATUS: ONLINE
+    /________\
 ```
 
 *Live dashboard • NLP order parsing • Dry-run simulation • Strategy presets • Structured JSONL logging*
