@@ -13,9 +13,9 @@
 ```
       /\
         /  \   BINANCE FUTURES TESTNET
-    / /\ \   TERMINAL v2.0 // NEON-DARK EDITION
+    / /\ \  TERMINAL v2.0 // NEON-DARK EDITION
       / /__\ \ > SYSTEM_STATUS: ONLINE
-    /________\
+     /________\
 ```
 
 *Live dashboard • NLP order parsing • Dry-run simulation • Strategy presets • Structured JSONL logging*
